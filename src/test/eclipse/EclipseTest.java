@@ -7,4 +7,8 @@ public class EclipseTest {
 
 	}
 
+	public void changesFromRemote(){
+		
+	}
+	
 }
